@@ -1,5 +1,7 @@
 # Asteroids
 
+Simple video game, based on the classic Asteroids
+
 ## Usage
 
 - `source ./main.sh` will:
@@ -7,4 +9,8 @@
     - Activate the virtual environment if it hasn't been activated yet
     - Install the required dependencies
     - Launch the game
+
+## Acknowledgments
+
+Based on a guided project found on [boot.dev](https://www.boot.dev)
 
